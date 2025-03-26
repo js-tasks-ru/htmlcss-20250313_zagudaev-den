@@ -22,7 +22,13 @@
     --success: var(--blue);
 
     --primary: var(--blue);
+    --primary-default: #4263EB;
+    --primary-hover: #2342C0;
     --secondary: var(--purple);
+    --secondary-default: var(--purple);
+    --secondary-hover: #5028C6;
+    --alternate-default: var(--grey-4);
+
 }
 
 
