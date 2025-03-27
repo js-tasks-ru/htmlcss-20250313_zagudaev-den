@@ -1,1 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@font-face {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/inter/Inter-Black.otf),
+            url(../fonts/inter/Inter-BlackItalic.otf),
+            url(../fonts/inter/Inter-Bold.otf),
+            url(../fonts/inter/Inter-BoldItalic.otf),
+            url(../fonts/inter/Inter-ExtraBold.otf),
+            url(../fonts/inter/Inter-ExtraBoldItalic.otf),
+            url(../fonts/inter/Inter-ExtraLight.otf),
+            url(../fonts/inter/Inter-ExtraLightItalic.otf),
+            url(../fonts/inter/Inter-Italic.otf),
+            url(../fonts/inter/Inter-Light.otf),
+            url(../fonts/inter/Inter-LightItalic.otf),
+            url(../fonts/inter/Inter-Medium.otf),
+            url(../fonts/inter/Inter-MediumItalic.otf),
+            url(../fonts/inter/Inter-Regular.otf),
+            url(../fonts/inter/Inter-SemiBold.otf),
+            url(../fonts/inter/Inter-SemiBoldItalic.otf),
+            url(../fonts/inter/Inter-Thin.otf),
+            url(../fonts/inter/Inter-ThinItalic.otf),
+            url(../fonts/inter/Inter-V.ttf);
+}
